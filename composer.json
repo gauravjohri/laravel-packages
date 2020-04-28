@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
-        "vendorss/module": "1.*"
+        "vendorss/module": "@dev"
     },
     
     "autoload": {
