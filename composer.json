@@ -5,8 +5,8 @@
 	"source": {
 		"url": "git@github.com:gauravjohri/laravel-packages.git",
 		"type": "git",
-		"reference": "master"
-	}
+		"reference": "origin-master"
+	},
     
     "autoload": {
         "psr-4": {
