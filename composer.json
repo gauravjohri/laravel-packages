@@ -1,7 +1,12 @@
 {
     "name": "vendorss/module",
     "description": "This demo package will do some calculations",
-    "version": "3.1.7",
+    "version": "dev-master",
+	"source": {
+		"url": "git@github.com:gauravjohri/laravel-packages.git",
+		"type": "git",
+		"reference": "origin/master"
+	}
     "authors": [
         {
             "name": "Tony lea",
