@@ -6,18 +6,7 @@
 		"url": "git@github.com:gauravjohri/laravel-packages.git",
 		"type": "git",
 		"reference": "master"
-	},
-    "authors": [
-        {
-            "name": "Tony lea",
-            "email": "tony@devdojo.com"
-        }
-    ],
-    
-    "require": {
-        "php": ">=7.0.0"
-       
-    },
+	}
     
     "autoload": {
         "psr-4": {
