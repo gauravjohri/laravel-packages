@@ -10,8 +10,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
+        "vendorss/module": "1.*"
     },
-    "version": "1.0.0",
+    
     "autoload": {
         "psr-4": {
             "Vendor\\Module\\": "src/"
