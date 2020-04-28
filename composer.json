@@ -5,8 +5,8 @@
 	"source": {
 		"url": "git@github.com:gauravjohri/laravel-packages.git",
 		"type": "git",
-		"reference": "origin/master"
-	}
+		"reference": "master"
+	},
     "authors": [
         {
             "name": "Tony lea",
