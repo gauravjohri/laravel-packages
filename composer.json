@@ -1,0 +1,19 @@
+{
+    "name": "vendor/module",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "Tony lea",
+            "email": "tony@devdojo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Module\\": "src/"
+        }
+    }
+}
