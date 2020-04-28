@@ -7,7 +7,7 @@
             "email": "tony@devdojo.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.0.0",
         "vendor/package": "1.3.2"
