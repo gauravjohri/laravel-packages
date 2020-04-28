@@ -1,6 +1,7 @@
 {
     "name": "vendorss/module",
     "description": "This demo package will do some calculations",
+    "version": "3.1.7",
     "authors": [
         {
             "name": "Tony lea",
