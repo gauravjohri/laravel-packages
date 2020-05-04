@@ -1,0 +1,5 @@
+The Hello World License (MIT)
+
+Copyright (c) <Hello World>
+
+Hello World

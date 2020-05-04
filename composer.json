@@ -1,16 +1,10 @@
 {
-    "name": "vendorss/module",
-    "description": "This demo package will do some calculations",
-    "version": "dev-master",
+	"name": "hello/world",
+	"description": "Hello-World",
+	"version": "dev-master",
 	"source": {
-		"url": "git@github.com:gauravjohri/laravel-packages.git",
+		"url": "git@github.com:pdfrabie/helloworld.git",
 		"type": "git",
-		"reference": "origin-master"
-	},
-    
-    "autoload": {
-        "psr-4": {
-            "Vendor\\Module\\": "src/"
-        }
-    }
+		"reference": "origin/master"
+	}
 }
