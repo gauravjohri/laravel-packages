@@ -1,5 +1,5 @@
 The Hello World License (MIT)
 
-Copyright (c) <Hello World>
+Copyright (c) <Hello2 World2>
 
-Hello World
+Hello2 World2
