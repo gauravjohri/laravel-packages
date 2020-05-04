@@ -1,9 +1,9 @@
 {
-	"name": "hello/world",
-	"description": "Hello-World",
+	"name": "hello/world2",
+	"description": "Hello-World2",
 	"version": "dev-master",
 	"source": {
-		"url": "git@github.com:pdfrabie/helloworld.git",
+		"url": "git@github.com:gauravjohri/laravel-packages.git",
 		"type": "git",
 		"reference": "origin/master"
 	}
