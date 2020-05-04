@@ -2,6 +2,7 @@
 	"name": "hello2/world2",
 	"description": "Hello-World2",
 	"version": "dev-master",
+	"minimum-stability":"stable",
 	"source": {
 		"url": "git@github.com:gauravjohri/laravel-packages.git",
 		"type": "git",
